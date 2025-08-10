@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://qifei.chenling.qzz.io/4e148b28-9719-4a1a-b42a-ec6b5aed078d"
+    url: "https://chenling.qzz.io/4e148b28-9719-4a1a-b42a-ec6b5aed078d"
     type: http
     interval: 86400
     health-check:
